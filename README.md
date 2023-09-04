@@ -11,15 +11,7 @@
 
 ```dart
 final AhmedZaeem = {
-    pronouns: "He" | "Him",
     code: ["Dart", "Kotlin", "C++", "Java", "GOLang"],
-    askMeAbout: ["Android development", "Cross platform development", "app dev", "Games"],
-    technologies: {
-        mobileApp: ["Android App","Cross platform App"],
-        API : ["GOLang"],
-        DB : ["SQFLite", "SQL"]
-        misc: ["Firebase", "PocketBase", "SQLPlus"]
-    },
     currentProject: "Working on a Real estate store app for HTC with my team using Flutter & issues and reports management app for commercial usage",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
@@ -29,9 +21,9 @@ final AhmedZaeem = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-500-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-563-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75%20thousand%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
