@@ -12,6 +12,7 @@
 ```dart
 final AhmedZaeem = {
     code: ["Dart", "Kotlin", "C++", "Java", "GOLang"],
+    tech: ["Github","Pocketbase"],
     currentProject: "Working on a Real estate store app for HTC with my team using Flutter & issues and reports management app for commercial usage",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
