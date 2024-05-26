@@ -31,7 +31,6 @@ const Ahmed = {
 
 ---
 
-Credit: [AhmedZaeem](https://github.com/AhmedZaeem)
 <br>
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVzdXZycWp4b3F4eTZkdWtvOGR0ZnIwdWhtZTQxaTJiYmR4N3pvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Mi4n4lwXZBGpl1Mjz/giphy.gif" width="50">
