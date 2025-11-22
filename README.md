@@ -7,10 +7,10 @@
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with employment
 - 💬 Ask me about flutter , kotlin , java , go
-- 📫 How to reach me: ahmed_el_zaeem@engineer.com
+- 📫 How to reach me: ahmed@recalledu.net
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works
 
-[![](https://img.shields.io/badge/Gmail-ahmed_el_zaeem@engineer.com-red)](mailto:ahmed_el_zaeem@engineer.com)
+[![](https://img.shields.io/badge/Gmail-ahmed@recalledu.net-red)](mailto:ahmed@recalledu.net)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
