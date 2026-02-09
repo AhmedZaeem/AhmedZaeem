@@ -85,7 +85,7 @@ When I joined **Dawerha** (Logistics), the system was critical.
 
 | Challenge | Solution | Result |
 |-----------|----------|--------|
-| 💀 Legacy spaghetti code | Clean Architecture & Riverpod/Bloc | ✅ Maintainable codebase |
+| 💀 Legacy spaghetti code | Clean Architecture & dependency injection with Bloc | ✅ Maintainable codebase |
 | 🔥 Memory leaks | Proper state management | ✅ Stable performance |
 | 📉 Zero scalability | Modular architecture | ✅ 60% faster startup |
 
