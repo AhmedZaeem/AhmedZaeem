@@ -108,8 +108,8 @@ When I joined **Dawerha** (Logistics), the system was critical.
 
 A high-performance rendering engine for timelines.
 
-- **Tech:** Custom Painters & Flexible Builders
-- **Impact:** Solves the "Rigid UI" problem for scheduling apps
+- **Tech:** Custom Designs & Flexible Builders
+- **Impact:** Solves the issue of having to manually design a full calendar for a task that might be simple 
 
 ---
 
@@ -167,5 +167,5 @@ A high-performance rendering engine for timelines.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" width="100%"/>
 </div>
